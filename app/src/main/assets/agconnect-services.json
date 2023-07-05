@@ -1,3 +1,37 @@
 {
-	"TO_BE_CONFIGURED": "File required by Huawei push notifications similar to google-services.json."
+	"agcgw":{
+		"websocketbackurl":"connect-ws-dre.hispace.dbankcloud.cn",
+		"backurl":"connect-dre.dbankcloud.cn",
+		"websocketurl":"connect-ws-dre.hispace.dbankcloud.com",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"appType":"1",
+		"cp_id":"5190420000024392157",
+		"product_id":"736430079244779940",
+		"client_id":"539033175494505088",
+		"client_secret":"1945F6AFC2BE1850AAE7C2D569A1AC31672E5BBE4E26AC127620B2D0110F465B",
+		"project_id":"736430079244779940",
+		"app_id":"103673959",
+		"api_key":"CgB6e3x9tUz4P/HXHb2RluTUYY/OkaANcz1yB5oSOHR11pLyfFtr9g6OQdtypF2RnsJtjzPbrNLZqAyfczvSaGvM",
+		"package_name":"com.thalesgroup.tshpaysample"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"search":{
+			"url":"https://search-dre.cloud.huawei.com"
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
 }
